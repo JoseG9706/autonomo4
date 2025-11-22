@@ -1,0 +1,17 @@
+         10 function calls in 0.000 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.000    0.000 c:\autonomo4\codigo_optimizado.py:17(encontrar_primos_numpy)
+        1    0.000    0.000    0.000    0.000 C:\Users\jjxx0\miniconda3\Lib\site-packages\numpy\_core\fromnumeric.py:2018(nonzero)
+        1    0.000    0.000    0.000    0.000 C:\Users\jjxx0\miniconda3\Lib\site-packages\numpy\_core\fromnumeric.py:51(_wrapfunc)
+        1    0.000    0.000    0.000    0.000 {method 'nonzero' of 'numpy.ndarray' objects}
+        1    0.000    0.000    0.000    0.000 C:\Users\jjxx0\miniconda3\Lib\site-packages\numpy\_core\numeric.py:137(ones)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method numpy.empty}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        1    0.000    0.000    0.000    0.000 C:\Users\jjxx0\miniconda3\Lib\site-packages\numpy\_core\multiarray.py:1098(copyto)
+        1    0.000    0.000    0.000    0.000 C:\Users\jjxx0\miniconda3\Lib\site-packages\numpy\_core\fromnumeric.py:2014(_nonzero_dispatcher)
+
+

@@ -1,0 +1,55 @@
+         132329 function calls (129549 primitive calls) in 31.583 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  441/288    0.008    0.000   51.667    0.179 C:\Users\jjxx0\miniconda3\Lib\queue.py:154(get)
+      657    0.031    0.000   31.368    0.048 C:\Users\jjxx0\miniconda3\Lib\threading.py:323(wait)
+   100000   30.046    0.000   30.046    0.000 c:\autonomo4\codigo_original.py:3(es_primo)
+  308/307    0.044    0.000   11.190    0.036 C:\Users\jjxx0\miniconda3\Lib\threading.py:637(wait)
+        1    0.000    0.000    0.055    0.055 c:\autonomo4\codigo_original.py:12(encontrar_primos)
+      153    0.003    0.000    0.008    0.000 c:\Users\jjxx0\.vscode\extensions\ms-python.debugpy-2025.16.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py:1768(process_internal_commands)
+      154    0.001    0.000    0.004    0.000 c:\Users\jjxx0\.vscode\extensions\ms-python.debugpy-2025.16.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py:314(can_exit)
+      307    0.002    0.000    0.003    0.000 c:\Users\jjxx0\.vscode\extensions\ms-python.debugpy-2025.16.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_daemon_thread.py:108(new_threading_enumerate)
+     9592    0.003    0.000    0.003    0.000 {method 'append' of 'list' objects}
+      154    0.001    0.000    0.002    0.000 c:\Users\jjxx0\.vscode\extensions\ms-python.debugpy-2025.16.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py:1469(has_user_threads_alive)
+      658    0.002    0.000    0.002    0.000 {built-in method _thread.allocate_lock}
+      154    0.000    0.000    0.002    0.000 c:\Users\jjxx0\.vscode\extensions\ms-python.debugpy-2025.16.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_utils.py:139(get_non_pydevd_threads)
+      658    0.001    0.000    0.001    0.000 C:\Users\jjxx0\miniconda3\Lib\threading.py:311(_acquire_restore)
+      901    0.001    0.000    0.001    0.000 C:\Users\jjxx0\miniconda3\Lib\threading.py:302(__exit__)
+      946    0.001    0.000    0.001    0.000 C:\Users\jjxx0\miniconda3\Lib\queue.py:209(_qsize)
+      901    0.000    0.000    0.001    0.000 C:\Users\jjxx0\miniconda3\Lib\threading.py:299(__enter__)
+      658    0.000    0.000    0.001    0.000 C:\Users\jjxx0\miniconda3\Lib\threading.py:314(_is_owned)
+     1842    0.001    0.000    0.001    0.000 {built-in method builtins.getattr}
+      154    0.000    0.000    0.001    0.000 c:\Users\jjxx0\.vscode\extensions\ms-python.debugpy-2025.16.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_comm.py:438(empty)
+      153    0.000    0.000    0.001    0.000 c:\Users\jjxx0\.vscode\extensions\ms-python.debugpy-2025.16.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py:1712(notify_thread_created)
+      154    0.000    0.000    0.000    0.000 C:\Users\jjxx0\miniconda3\Lib\queue.py:97(empty)
+     1099    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+      153    0.000    0.000    0.000    0.000 c:\Users\jjxx0\.vscode\extensions\ms-python.debugpy-2025.16.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py:1587(get_internal_queue_and_event)
+      658    0.000    0.000    0.000    0.000 C:\Users\jjxx0\miniconda3\Lib\threading.py:308(_release_save)
+      658    0.000    0.000    0.000    0.000 {method 'remove' of 'collections.deque' objects}
+     1515    0.000    0.000    0.000    0.000 {method '__exit__' of '_thread.lock' objects}
+      153    0.000    0.000    0.000    0.000 C:\Users\jjxx0\miniconda3\Lib\threading.py:627(clear)
+      927    0.000    0.000    0.000    0.000 {built-in method time.monotonic}
+      901    0.000    0.000    0.000    0.000 {method '__enter__' of '_thread.lock' objects}
+      614    0.000    0.000    0.000    0.000 {method 'values' of 'dict' objects}
+      307    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+      153    0.000    0.000    0.000    0.000 C:\Users\jjxx0\miniconda3\Lib\threading.py:1485(current_thread)
+      153    0.000    0.000    0.000    0.000 {method 'startswith' of 'str' objects}
+      658    0.000    0.000    0.000    0.000 {method 'append' of 'collections.deque' objects}
+      658    0.000    0.000    0.000    0.000 {method 'release' of '_thread.lock' objects}
+      307    0.000    0.000    0.000    0.000 c:\Users\jjxx0\.vscode\extensions\ms-python.debugpy-2025.16.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py:1622(check_output_redirect)
+      153    0.000    0.000    0.000    0.000 c:\Users\jjxx0\.vscode\extensions\ms-python.debugpy-2025.16.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_daemon_thread.py:36(py_db)
+      307    0.000    0.000    0.000    0.000 {method '__exit__' of '_thread.RLock' objects}
+      154    0.000    0.000    0.000    0.000 C:\Users\jjxx0\miniconda3\Lib\threading.py:1236(daemon)
+      307    0.000    0.000    0.000    0.000 c:\Users\jjxx0\.vscode\extensions\ms-python.debugpy-2025.16.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydev_bundle\pydev_is_thread_alive.py:20(is_thread_alive)
+      153    0.000    0.000    0.000    0.000 {built-in method _thread.get_ident}
+      153    0.000    0.000    0.000    0.000 {method 'keys' of 'dict' objects}
+      153    0.000    0.000    0.000    0.000 c:\Users\jjxx0\.vscode\extensions\ms-python.debugpy-2025.16.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_constants.py:668(get_thread_id)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+      153    0.000    0.000    0.000    0.000 c:\Users\jjxx0\.vscode\extensions\ms-python.debugpy-2025.16.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_constants.py:648(get_current_thread_id)
+      153    0.000    0.000    0.000    0.000 c:\Users\jjxx0\.vscode\extensions\ms-python.debugpy-2025.16.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_constants.py:702(__enter__)
+      153    0.000    0.000    0.000    0.000 c:\Users\jjxx0\.vscode\extensions\ms-python.debugpy-2025.16.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_constants.py:705(__exit__)
+   2629/3    1.432    0.001    0.000    0.000 {method 'acquire' of '_thread.lock' objects}
+
+
