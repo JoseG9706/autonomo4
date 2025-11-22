@@ -47,7 +47,7 @@ las llamadas.
 **Conclusiones**
 
 Podemos decir que si bien es cierto python es un lenguaje versatil que nos permite realizar muchos tipos de proyectos, es importante implementar tecnicas, librerias, etc, que nos permitan
-sacar el maximo provecho a nuestras herramientas tecnologicas y optener mejores resultados.
+sacar el maximo provecho a nuestras herramientas tecnologicas y obtener mejores resultados.
 
 Otra conclusion es que herramientas como cProfile nos permiten entender como funcionan internamente los algoritmos, si bien es cierto fueron algoritmos parecidos en el numeros de lineas
 de codigo, el funcionamiento interno y la logica de cada uno marcan la diferencia que se ve reflejada en el tiempo de ejecucion de cada uno.
